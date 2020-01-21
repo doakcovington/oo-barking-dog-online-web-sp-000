@@ -7,5 +7,7 @@ class Dog
   end
 
   #getter
-  def
+  def name
+    @name
+  end
 end
