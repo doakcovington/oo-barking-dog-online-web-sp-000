@@ -10,4 +10,9 @@ class Dog
   def name
     @name
   end
+
+  #bark method
+  def bark
+    puts "woof!"
+  end
 end
