@@ -7,5 +7,5 @@ class Dog
   end
 
   #getter
-  def 
+  def
 end
